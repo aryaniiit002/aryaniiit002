@@ -25,19 +25,21 @@ Portfolio: Under Construction :)
 <code><img height="30" width="30" alt="C" src="https://www.pikpng.com/pngl/m/489-4892167_c-logo-png-transparent-c-language-logo-png.png"></code>
 <code><img height="30" width="30" alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzainTIAEl9JLYwiwS-unZLcLo_JbizxSnjA&usqp=CAU"></code>
 <code><img height="30" width="30" alt="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
-<code><img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="Github" src="https://www.pngitem.com/pimgs/m/128-1280162_github-logo-png-cat-transparent-png.png"></code>
-<code><img height="20" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" alt="Linux" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg"></code>
+<code><img height="30" width="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" width="30" alt="Github" src="https://www.pngitem.com/pimgs/m/128-1280162_github-logo-png-cat-transparent-png.png"></code>
+<code><img height="30" width="30" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" width="30" alt="Linux" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg"></code>
+<code><img height="30" width="30" alt="Shell Script" src="http://mangadaku.com/images/logo_shell.jpg"></code>
+<code><img height="30" width="30" alt="Github Actions" src="https://blog.marcnuri.com/wp-content/uploads/sites/3/2019/12/github_actions.jpg"></code>
 
 <br />
 
 ## ⚡ Get in touch:
 
-[<img align="left" alt="Aryaniiit002 | Gmail" width="22px" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" />][Gmail]
-[<img align="left" alt="Aryaniiit002 | LinkedIn" width="22px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" />][linkedin]
-[<img align="left" alt="Aryaniiit002 | Instagram" width="22px" src="https://assets.teenvogue.com/photos/573b7d4e0e9d16a80fb5f9c0/1:1/w_600,h_600,c_limit/instagram-hack.jpg" />][instagram]
-[<img align="left" alt="Aryaniiit002 | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][Facebook]
+[<img align="left" alt="Aryaniiit002 | Gmail" width="23px" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" />][Gmail]
+[<img align="left" alt="Aryaniiit002 | LinkedIn" width="23px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" />][linkedin]
+[<img align="left" alt="Aryaniiit002 | Instagram" width="23px" src="https://assets.teenvogue.com/photos/573b7d4e0e9d16a80fb5f9c0/1:1/w_600,h_600,c_limit/instagram-hack.jpg" />][instagram]
+[<img align="left" alt="Aryaniiit002 | Facebook" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][Facebook]
 
 <br />
 
