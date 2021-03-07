@@ -35,7 +35,7 @@ Portfolio: Under Construction :)
 ## ⚡ Get in touch:
 
 [<img align="left" alt="Aryaniiit002 | Gmail" width="22px" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" />][Gmail]
-[<img align="left" alt="Aryaniiit002 | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612065264~hmac=cc8140b69c3c767595ea846458219c61" />][linkedin]
+[<img align="left" alt="Aryaniiit002 | LinkedIn" width="22px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" />][linkedin]
 [<img align="left" alt="Aryaniiit002 | Instagram" width="22px" src="https://assets.teenvogue.com/photos/573b7d4e0e9d16a80fb5f9c0/1:1/w_600,h_600,c_limit/instagram-hack.jpg" />][instagram]
 [<img align="left" alt="Aryaniiit002 | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][Facebook]
 
