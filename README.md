@@ -36,10 +36,11 @@ Portfolio: Under Construction :)
 
 ## ⚡ Get in touch:
 
-[<img align="left" alt="Aryaniiit002 | Gmail" width="23px" src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" />][Gmail]
-[<img align="left" alt="Aryaniiit002 | LinkedIn" width="23px" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" />][linkedin]
-[<img align="left" alt="Aryaniiit002 | Instagram" width="23px" src="https://assets.teenvogue.com/photos/573b7d4e0e9d16a80fb5f9c0/1:1/w_600,h_600,c_limit/instagram-hack.jpg" />][instagram]
-[<img align="left" alt="Aryaniiit002 | Facebook" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][Facebook]
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanbindal2015@gmail.com)](mailto:aryanbindal2015@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Aryan_Bindal%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-bindal-3077401ab/)](https://www.linkedin.com/in/aryan-bindal-3077401ab) 
+[![Instagram Badge](https://img.shields.io/badge/aryan__bindal-%23E0487F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aryan__bindal//)](https://www.instagram.com/aryan__bindal/) 
+[![Facebook Badge](https://img.shields.io/badge/Aryan_Bindal-%23E0487F.svg?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/aryan.bindal.1604/)](https://www.facebook.com/aryan.bindal.1604) 
+
 
 <br />
 
@@ -49,9 +50,4 @@ Portfolio: Under Construction :)
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aryaniiit002&show_icons=true&theme=radical&count_private=true" alt="Aryaniiit002" />
 
-
-
-[Gmail]: mailto:aryanbindal2015@gmail.com
-[Facebook]: https://www.facebook.com/aryan.bindal.1604
-[instagram]: https://www.instagram.com/aryan__bindal/
-[linkedin]: https://www.linkedin.com/in/aryan-bindal-3077401ab
+<img align="right" src="https://komarev.com/ghpvc/?username=Aryaniiit002&label=Profile Views&color=blue&style=plastic" alt="Aryaniiit002" />
