@@ -19,18 +19,11 @@ Portfolio: Under Construction :)
 
 ## ⚡ Languages and Tools:
 
-<code><img height="30" width="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" width="30" alt="Python" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
 <code><img height="30" width="30" alt="Java" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt68pAPrZUZhOe9aFjyzFWIjeNP4poLFViNQ&usqp=CAU"></code>
-<code><img height="30" width="30" alt="C" src="https://www.pikpng.com/pngl/m/489-4892167_c-logo-png-transparent-c-language-logo-png.png"></code>
 <code><img height="30" width="30" alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzainTIAEl9JLYwiwS-unZLcLo_JbizxSnjA&usqp=CAU"></code>
-<code><img height="30" width="30" alt="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
+<code><img height="30" width="30" alt="Java Script" src="https://banner2.cleanpng.com/20180527/oio/kisspng-javascript-programming-language-ajax-5b0b285b692210.3071468515274578834306.jpg"></code>
+<code><img height="30" width="30" alt="React" src="https://miro.medium.com/max/4200/1*EVqCcmCPgpNKxU1wzcTHgw.png"></code>
 <code><img height="30" width="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" width="30" alt="Github" src="https://www.pngitem.com/pimgs/m/128-1280162_github-logo-png-cat-transparent-png.png"></code>
-<code><img height="30" width="30" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" width="30" alt="Linux" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg"></code>
-<code><img height="30" width="30" alt="Shell Script" src="http://mangadaku.com/images/logo_shell.jpg"></code>
-<code><img height="30" width="30" alt="Github Actions" src="https://blog.marcnuri.com/wp-content/uploads/sites/3/2019/12/github_actions.jpg"></code>
 
 <br />
 
