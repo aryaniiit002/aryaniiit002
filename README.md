@@ -4,7 +4,8 @@
 
 I'm in my early 20s         
 Computer Science and Engineering Student @IIIT Sonepat        
-Java developer             
+Java developer      
+Frontend React Web Developer        
 Linux enthusiast                     
 
 - 🌱 I’m currently learning Java
