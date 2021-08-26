@@ -13,7 +13,7 @@ Linux enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play guitar  
 
-Portfolio: Under Construction :)          
+Portfolio: https://aryaniiit002-portfolio-site.netlify.app/          
 
 
 
