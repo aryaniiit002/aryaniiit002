@@ -32,7 +32,7 @@ Portfolio: https://aryaniiit002-portfolio-site.netlify.app/
 
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanbindal2015@gmail.com)](mailto:aryanbindal2015@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/aryan__bindal-%23E0487F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aryan__bindal//)](https://www.instagram.com/aryan__bindal/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Aryan_Bindal%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-bindal-3077401ab/)](https://www.linkedin.com/in/aryan-bindal-3077401ab) 
+[![Linkedin Badge](https://img.shields.io/badge/-Aryan_Bindal%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-bindal-3077401ab/)](https://www.linkedin.com/in/aryanbindal) 
 [![Facebook Badge](https://img.shields.io/badge/Aryan_Bindal-%23E0487F.svg?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/aryan.bindal.1604/)](https://www.facebook.com/aryan.bindal.1604) 
 
 
