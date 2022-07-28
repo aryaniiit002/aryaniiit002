@@ -10,7 +10,7 @@ Linux enthusiast
 
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with like minded amazing people like you
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play guitar  
 
 
