@@ -13,9 +13,10 @@ Linux enthusiast
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play guitar  
 
+<br />
 
 <!-- Portfolio: https://aryaniiit002-portfolio-site.netlify.app/           -->
-
+### Resume : [Link](https://drive.google.com/file/d/1-elinYWSUZ4ZZUzy-z_EzQDQ3LrfOUl5/view?usp=share_link)
 
 
 ## ⚡ Languages and Tools:
